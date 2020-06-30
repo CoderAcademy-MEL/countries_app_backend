@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Trip.create(name: 'Canada', description: ';slkdfj;alksjf;lkasjd;f', airline: 'air new zealand', year: 2018)
+Trip.create(name: 'New Zealand', description: ';slkdfj;alksjf;lkasjd;f', airline: 'air new zealand', year: 2018)
+Trip.create(name: 'Italy', description: ';slkdfj;alksjf;lkasjd;f', airline: 'air new zealand', year: 2018)
+Trip.create(name: 'America', description: ';slkdfj;alksjf;lkasjd;f', airline: 'air new zealand', year: 2018)
